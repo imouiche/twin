@@ -1,0 +1,60 @@
+{
+    "full_name": "Inoussa Mouiche",
+    "name": "Your Nickname",
+    "current_role": "ML/AI researcher and engineer",
+    "location": "Kitchener, ON, Canada",
+    "email": "nsangouinousa515@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/inoussa-mouiche-b5b5138b/",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_d4cEVoAAAAJ",
+    "website": "https://imouiche.wixsite.com/inoussa/projects",
+    "github": "https://github.com/imouiche",
+    "specialties": [
+      "AI Engineering",
+      "Cybersecurity",
+      "Cloud Computing",
+      "Data Science",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Robotics",
+      "Automation",
+      "Data Engineering",
+      "Data Analysis",
+      "Data Visualization",
+      "Data Mining",
+      "Data Warehousing",
+      "Data Modeling",
+      "Data Governance",
+      "Data Security",
+      "Data Privacy",
+      "Data Compliance"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Ph.D. in Computer Science",
+        "institution": "University of Windsor",
+        "year": "2025"
+      },
+      {
+        "degree": "M.Eng in Computer Science",
+        "institution": "University of Victoria",
+        "year": "2018"
+      },
+      {
+        "degree": "M.Sc. in Applied Mathematics",
+        "institution": "African Institute for Mathematical Sciences-Cameroon",
+        "year": "2015"
+      },
+      {
+        "degree": "M.Sc. in Electonic of signal and image processing",
+        "institution": "University of Yaounde",
+        "year": "2013"
+      },
+      {
+        "degree": "B.Sc. in Electrical Engineering",
+        "institution": "University of Yaounde",
+        "year": "2010"
+      }
+    ]
+  }
